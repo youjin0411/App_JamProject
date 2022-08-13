@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/notosansbold"
+            android:gravity="center"
+            android:text="당신은 소중한 가정을 이룬"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="베이비봄 세대"
+            android:textColor="#FFC100"
+            android:textSize="23sp"
+            android:gravity="center_horizontal"
+            android:layout_marginTop="-30dp"
+            android:fontFamily="@font/notosansbold"/>
+        <ImageView
+            android:layout_width="200dp"
+            android:layout_height="370dp"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/babyimg"
+            android:layout_marginTop="-40dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="'마지막 주산 세대'이자 '컴맹 1세대'이다"
+            android:textSize="16sp"
+            android:gravity="center_horizontal"
+            android:fontFamily="@font/notosansthink"
+            android:textColor="#000000"
+            android:layout_marginTop="-10dp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="✔ 베이비붐 세대의"
+            android:layout_marginLeft="90dp"
+            android:textColor="#000000"
+            android:textSize="19sp"
+            android:fontFamily="@font/notosansregular"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="유행어"
+            android:fontFamily="@font/notosansregular"
+            android:textSize="20.5sp"
+            android:layout_marginTop="-57sp"
+            android:layout_marginLeft="245dp"
+            android:textColor="#FFC501"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="새 발의 피"
+            android:textSize="20sp"
+            android:textColor="#000000"
+            android:fontFamily="@font/notosansbold"
+            android:layout_marginLeft="15dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="아주 하찮은 일이나 극히 적은 분량"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="-15dp"
+            android:textSize="15sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="아더매치유"
+            android:textSize="20sp"
+            android:textColor="#000000"
+            android:fontFamily="@font/notosansbold"
+            android:layout_marginLeft="15dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="아니꼽고, 치사하고, 유치함"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="-15dp"
+            android:textSize="15sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="구라푼다"
+            android:textSize="20sp"
+            android:textColor="#000000"
+            android:fontFamily="@font/notosansbold"
+            android:layout_marginLeft="15dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="거짓말하다"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="-15dp"
+            android:textSize="15sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="김샌다"
+            android:textSize="20sp"
+            android:textColor="#000000"
+            android:fontFamily="@font/notosansbold"
+            android:layout_marginLeft="15dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="실망하다"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="-15dp"
+            android:textSize="15sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="새발의 워커"
+            android:textSize="20sp"
+            android:textColor="#000000"
+            android:fontFamily="@font/notosansbold"
+            android:layout_marginLeft="15dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="당치도 않은 소리"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="-15dp"
+            android:textSize="15sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="재건데이트"
+            android:textSize="20sp"
+            android:textColor="#000000"
+            android:fontFamily="@font/notosansbold"
+            android:layout_marginLeft="15dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="돈 안 들이는 데이트"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="-15dp"
+            android:textSize="15sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ICA"
+            android:textSize="20sp"
+            android:textColor="#000000"
+            android:fontFamily="@font/notosansbold"
+            android:layout_marginLeft="15dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="고자질 하는 학생"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="-15dp"
+            android:textSize="15sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="무허가 건축"
+            android:textSize="20sp"
+            android:textColor="#000000"
+            android:fontFamily="@font/notosansbold"
+            android:layout_marginLeft="15dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="못생긴 사람"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="-15dp"
+            android:textSize="15sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="박호순"
+            android:textSize="20sp"
+            android:textColor="#000000"
+            android:fontFamily="@font/notosansbold"
+            android:layout_marginLeft="15dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="못생긴 여자"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="-15dp"
+            android:textSize="15sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="짜가"
+            android:textSize="20sp"
+            android:textColor="#000000"
+            android:fontFamily="@font/notosansbold"
+            android:layout_marginLeft="15dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="가짜"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="-15dp"
+            android:textSize="15sp"/>
+    </LinearLayout>
+</ScrollView>

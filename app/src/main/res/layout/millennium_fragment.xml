@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/notosansbold"
+            android:gravity="center"
+            android:text="당신은 내가 제일 중요한
+"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="밀리니엄 세대"
+            android:textColor="#FFC100"
+            android:textSize="23sp"
+            android:gravity="center_horizontal"
+            android:layout_marginTop="-30dp"
+            android:fontFamily="@font/notosansbold"/>
+        <ImageView
+            android:layout_width="200dp"
+            android:layout_height="320dp"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/mili"
+            android:layout_marginTop="-20dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="베이비부머의 자식 세대다."
+            android:textSize="16sp"
+            android:gravity="center_horizontal"
+            android:fontFamily="@font/notosansthink"
+            android:textColor="#000000"
+            android:layout_marginTop="-20dp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="✔ 밀레니엄 세대의"
+            android:layout_marginLeft="90dp"
+            android:textColor="#000000"
+            android:textSize="19sp"
+            android:fontFamily="@font/notosansregular"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="유행어"
+            android:fontFamily="@font/notosansregular"
+            android:textSize="20.5sp"
+            android:layout_marginTop="-57sp"
+            android:layout_marginLeft="245dp"
+            android:textColor="#FFC501"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="갑분싸"
+            android:textSize="20sp"
+            android:textColor="#000000"
+            android:fontFamily="@font/notosansbold"
+            android:layout_marginLeft="15dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="갑자기 분위기 싸해짐"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="-15dp"
+            android:textSize="15sp"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="이생망"
+            android:textSize="20sp"
+            android:textColor="#000000"
+            android:fontFamily="@font/notosansbold"
+            android:layout_marginLeft="15dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="이번 생은 망했다."
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="-15dp"
+            android:textSize="15sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="JMT"
+            android:textSize="20sp"
+            android:textColor="#000000"
+            android:fontFamily="@font/notosansbold"
+            android:layout_marginLeft="15dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="존맛탱"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="-15dp"
+            android:textSize="15sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="인싸"
+            android:textSize="20sp"
+            android:textColor="#000000"
+            android:fontFamily="@font/notosansbold"
+            android:layout_marginLeft="15dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="소속된 무리에서 적극적으로 활동하는 사람"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="-15dp"
+            android:textSize="15sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="존버"
+            android:textSize="20sp"
+            android:textColor="#000000"
+            android:fontFamily="@font/notosansbold"
+            android:layout_marginLeft="15dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="끈질기게 버티는 것을 의미한다. ‘존버만이 답이다’"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="-15dp"
+            android:textSize="15sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="TMI"
+            android:textSize="20sp"
+            android:textColor="#000000"
+            android:fontFamily="@font/notosansbold"
+            android:layout_marginLeft="15dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="너무 과한 정보를 말한다."
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="-15dp"
+            android:textSize="15sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="뽀시래기"
+            android:textSize="20sp"
+            android:textColor="#000000"
+            android:fontFamily="@font/notosansbold"
+            android:layout_marginLeft="15dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="귀여운 사람이나 동물을 작디작은 부스러기에 비유한 말."
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="-15dp"
+            android:textSize="15sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="삼귀다"
+            android:textSize="20sp"
+            android:textColor="#000000"
+            android:fontFamily="@font/notosansbold"
+            android:layout_marginLeft="15dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="‘사귀는 것보다는 덜한 사이’라는 뜻."
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="-15dp"
+            android:textSize="15sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="애빼시"
+            android:textSize="20sp"
+            android:textColor="#000000"
+            android:fontFamily="@font/notosansbold"
+            android:layout_marginLeft="15dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="애교 빼면 시체."
+           android:layout_marginLeft="15dp"
+            android:layout_marginTop="-15dp"
+            android:textSize="15sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="당모치"
+            android:textSize="20sp"
+            android:textColor="#000000"
+            android:fontFamily="@font/notosansbold"
+            android:layout_marginLeft="15dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="당연히 모든 치킨은 옳다"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="-15dp"
+            android:textSize="15sp"/>
+    </LinearLayout>
+</ScrollView>
