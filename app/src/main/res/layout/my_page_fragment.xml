@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#FFCB21">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="해커톤뿡"
+        android:textColor="#FFFFFF"
+        android:textSize="24sp"
+        android:fontFamily="@font/notosansbold"
+        android:layout_marginLeft="49sp"
+        android:layout_marginTop="66dp"/>
+    <ImageView
+        android:id="@+id/person"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/person"
+        android:layout_marginTop="-75dp"
+        android:layout_marginLeft="250dp"
+        android:scaleType="centerCrop"
+        android:baseline="100dp"/>
+    <ImageButton
+        android:id="@+id/addimg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/button"
+        android:background="#CFC7C7"
+        android:layout_marginLeft="310dp"
+        android:layout_marginTop="-30dp"/>
+
+    <Button
+        android:id="@+id/btn_mytest"
+        android:layout_width="300dp"
+        android:layout_height="80dp"
+        android:text="나의 유형 분석하기"
+        android:textSize="18sp"
+        android:fontFamily="@font/notosansregular"
+        android:textColor="#000000"
+        android:backgroundTint="#F7E171"
+        android:layout_marginTop="40dp"
+        android:layout_gravity="center_horizontal"/>
+    <Button
+        android:id="@+id/btn_alltest"
+        android:layout_width="300dp"
+        android:layout_height="80dp"
+        android:text="모든 유형 분석하기"
+        android:textSize="18sp"
+        android:fontFamily="@font/notosansregular"
+        android:textColor="#000000"
+        android:backgroundTint="#F7E171"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center_horizontal"/>
+
+    <ImageView
+        android:layout_width="418dp"
+        android:layout_height="200dp"
+        android:src="@drawable/back"/>
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/project"
+        android:backgroundTint="#F6FE98"
+        android:layout_marginTop="-160dp"
+        android:layout_marginLeft="30dp"/>
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/buy"
+        android:backgroundTint="#F6FE98"
+        android:layout_marginTop="-60dp"
+        android:layout_marginLeft="150dp"/>
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/setting"
+        android:backgroundTint="#F6FE98"
+        android:layout_marginTop="-57dp"
+        android:layout_marginLeft="260dp"/>
+    <ImageButton
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="20dp"
+        android:backgroundTint="#F6FE98"
+        android:src="@drawable/logout"
+ />
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#F6FE98"
+        android:layout_marginTop="-50dp"
+        android:src="@drawable/question"
+        android:layout_marginLeft="150dp"/>
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/center"
+        android:backgroundTint="#F6FE98"
+        android:layout_marginTop="-56dp"
+        android:layout_marginLeft="260dp"/>
+
+    <ImageView
+        android:layout_width="340dp"
+        android:layout_height="200dp"
+        android:layout_marginTop="6dp"
+        android:layout_gravity="center_horizontal"
+        android:scaleType="centerCrop"
+        android:src="@drawable/graph" />
+
+</LinearLayout>

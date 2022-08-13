@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ScrollView
+    android:background="#FFFFFF"
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
     android:layout_width="match_parent"
@@ -29,15 +30,17 @@
             android:fontFamily="@font/notosansbold"/>
         <ImageView
             android:layout_width="200dp"
-            android:layout_height="370dp"
+            android:layout_height="300dp"
             android:layout_gravity="center_horizontal"
-            android:src="@drawable/babyimg"
-            android:layout_marginTop="-40dp"/>
+            android:src="@drawable/baby_boom"
+
+            android:layout_marginTop="-20dp"/>
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="'마지막 주산 세대'이자 '컴맹 1세대'이다"
             android:textSize="16sp"
+            android:background="#F6FE98"
             android:gravity="center_horizontal"
             android:fontFamily="@font/notosansthink"
             android:textColor="#000000"
@@ -46,7 +49,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="✔ 베이비붐 세대의"
-            android:layout_marginLeft="90dp"
+            android:layout_marginLeft="70dp"
             android:textColor="#000000"
             android:textSize="19sp"
             android:fontFamily="@font/notosansregular"/>
@@ -57,7 +60,7 @@
             android:fontFamily="@font/notosansregular"
             android:textSize="20.5sp"
             android:layout_marginTop="-57sp"
-            android:layout_marginLeft="245dp"
+            android:layout_marginLeft="223dp"
             android:textColor="#FFC501"/>
         <TextView
             android:layout_width="match_parent"
@@ -218,5 +221,7 @@
             android:layout_marginLeft="15dp"
             android:layout_marginTop="-15dp"
             android:textSize="15sp"/>
+
+
     </LinearLayout>
 </ScrollView>

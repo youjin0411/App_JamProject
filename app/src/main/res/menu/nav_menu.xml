@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/mainpage"
+        android:title="메이페이지"
+        android:iconTint="#000000"/>
     <item android:id="@+id/baby_boom"
         android:title="베이비붐 세대"
         android:iconTint="#000000"/>
